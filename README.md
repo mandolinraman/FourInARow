@@ -17,4 +17,4 @@ and run `FourInARow`
 
 # Algorithm
 
-![GitHub Logo](/images/board.png)
+![board](https://raw.githubusercontent.com/mandolinraman/FourInARow/master/board.png)
