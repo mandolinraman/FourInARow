@@ -18,3 +18,4 @@ and run `FourInARow`
 # Algorithm
 
 
+[
